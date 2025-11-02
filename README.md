@@ -1,6 +1,7 @@
 ## Excel Project- Road Accident Report
 
 ![dashboard image](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/Dashboard_image.png?raw=true)
+![pivot table](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/accident_pivot_table.png?raw=true)
 
 #### created an interactive dashboard to analyze and explore road accident data from 2021–2022, aiming to provide valuable insights that can help in future decision-making and improving road safety.
 
