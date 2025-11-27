@@ -1,7 +1,7 @@
 # 🚗 Road Accident Analysis (2021–2022)
 
 ### 🎯 Brief Project Info :-
-- I built a Road Accident Analysis (2021–2022) using Excel, combining interactive charts, pivot tables, slicers, and KPIs.
+- I built a Road Accident Analysis (2021–2022) Dashboard using Excel, combining interactive charts, pivot tables, slicers, and KPIs.
 
 - The report highlights critical patterns in accident severity, vehicle involvement, road infrastructure, weather conditions, and monthly trends.
 
