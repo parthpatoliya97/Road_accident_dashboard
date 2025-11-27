@@ -16,13 +16,13 @@
 | **Serious** | 59,356 | 14.2% |
 | **Fatal** | **6,734** | **1.6%** |
 
-🔎 **Key Insight:** Even though fatal cases are only 1.6%, the absolute number (**6,734**) is significant and alarming.
+**Key Insight:** Even though fatal cases are only 1.6%, the absolute number (**6,734**) is significant and alarming.
 
 ---
 
 ## 📈 Casualties Monthly Trend (2021–2022)
 
-⭐ **Key Observations:**
+**Key Observations:**
 
 * Both years follow a similar trend, with **higher casualties during summer (May–July)**. This indicates seasonal patterns where traffic volume may be higher during holidays or favorable weather.
 * **November shows a peak** in 2021 (~21k casualties).
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 Detailed Casualties Breakdown
+## Detailed Casualties Breakdown
 
 ### 🚗 By Vehicle Type
 
@@ -43,7 +43,7 @@
 | Bus | 12,798 | 3% |
 | Tractor | 1,032 | <1% |
 
-🔍 **Key Insight:** Cars are involved in almost **4 out of every 5 casualties**, making them the most critical category for preventive actions.
+**Key Insight:** Cars are involved in almost **4 out of every 5 casualties**, making them the most critical category for preventive actions.
 
 ---------------------
 
@@ -54,7 +54,7 @@
 | **Urban** | **255,864** | **61%** |
 | Rural | 162,019 | 39% |
 
-📌 **Insight:** Urban areas contribute to the majority of accidents due to **higher vehicle density, traffic congestion, and signal violations.**
+**Insight:** Urban areas contribute to the majority of accidents due to **higher vehicle density, traffic congestion, and signal violations.**
 
 ---------------
 
@@ -65,7 +65,7 @@
 | **Daylight** | **304,963** | **73%** |
 | Darkness | 112,920 | 27% |
 
-🔍 **Key Insight:** Most casualties occur during **daytime**, likely due to higher traffic volume, peak travel times, and over-speeding during low congestion hours.
+**Key Insight:** Most casualties occur during **daytime**, likely due to higher traffic volume, peak travel times, and over-speeding during low congestion hours.
 
 ---------
 
@@ -80,7 +80,7 @@
 | Slip Road | 4.7k |
 | Unknown | 1.9k |
 
-🔍 **Key Insight:** **Single Carriageways** contribute to nearly **74% of casualties**, showing they are the most dangerous road infrastructure type.
+**Key Insight:** **Single Carriageways** contribute to nearly **74% of casualties**, showing they are the most dangerous road infrastructure type.
 
 ---------
 ### 🌧 By Road Surface Condition
@@ -92,7 +92,7 @@
 | Snow | 22,781 |
 | Other | 396 |
 
-🔍 **Insight:** Even in **dry weather**, casualties are significantly high. This suggests the problem is driven more by **speeding, distractions, and traffic density**, not just weather.
+**Insight:** Even in **dry weather**, casualties are significantly high. This suggests the problem is driven more by **speeding, distractions, and traffic density**, not just weather.
 
 ------
 
@@ -106,11 +106,11 @@
 | Fog | Very Low |
 | Other | 396 |
 
-🔎 **Insight:** Most casualties occur in clear weather, again highlighting **behavioral factors** rather than weather hazards.
+**Insight:** Most casualties occur in clear weather, again highlighting **behavioral factors** rather than weather hazards.
 
 ---
 
-## 🧠 High-Level Insights Summary
+## High-Level Insights Summary
 
 🔥 **Top 5 Risk Factors**
 
@@ -133,21 +133,24 @@
 
 ## 💡 6. Recommendations to Reduce Accidents
 
-1.  **🚦 Improve Road Infra on Single Carriageways:** Add dividers, speed enforcement, improve signage, and widen roads in high-traffic zones.
-2.  **🚗 Target Car Drivers with Awareness Programs:** Focus on speeding, mobile usage, overtaking rules, and strict implementation of seatbelt policies.
-3.  **🏙 Urban Congestion Management:** Implement better traffic signal synchronization, dedicated lanes for buses & two-wheelers, and increased traffic patrols during peak hours.
-4.  **☀ Daytime Enforcement:** Since most accidents occur in daylight, deploy more traffic personnel and set up AI-based speed cameras.
-5.  **🛑 Seasonal & Monthly Monitoring:** Provide extra supervision in **May–July & October–November** (identified peak months).
-6.  **🚧 Introduce Real-Time Hazard Alerts:** Use mobile apps & smart signboards for instant hazard communication.
-7.  **🧯 Community Awareness & Training:** Launch defensive driving programs, offer first-aid training for drivers, and run "No Phone While Driving" campaigns.
+1.  **🚦 Improve Road Infra on Single Carriageways :** Add dividers, speed enforcement, improve signage, and widen roads in high-traffic zones.
+2.  **🚗 Target Car Drivers with Awareness Programs :** Focus on speeding, mobile usage, overtaking rules, and strict implementation of seatbelt policies.
+3.  **🏙 Urban Congestion Management :** Implement better traffic signal synchronization, dedicated lanes for buses & two-wheelers, and increased traffic patrols during peak hours.
+4.  **☀ Daytime Enforcement :** Since most accidents occur in daylight, deploy more traffic personnel and set up AI-based speed cameras.
+5.  **🛑 Seasonal & Monthly Monitoring :** Provide extra supervision in **May–July & October–November** (identified peak months).
+6.  **🚧 Introduce Real-Time Hazard Alerts :** Use mobile apps & smart signboards for instant hazard communication.
+7.  **🧯 Community Awareness & Training :** Launch defensive driving programs, offer first-aid training for drivers, and run "No Phone While Driving" campaigns.
 
 ---
 
 ## Dashboard & Pivot Tables Images :-
 
-![safety precaution after accident](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQQzZ6mALV0pp7ZRhKqHjxAUIXuPJAAyg9qi95GPDD3hhjwPGSkaOp3zOpt9NaqPpbP-lvXLj6S1k4lGVLm9uiRnufDkMfZL-pI5PFtma5I8EVaOEM)
 ![dashboard image](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/Dashboard_image.png?raw=true)
+
 ![pivot table](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/accident_pivot_table.png?raw=true)
+
+## What to do to avoid Accidents ?
+![safety precaution after accident](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQQzZ6mALV0pp7ZRhKqHjxAUIXuPJAAyg9qi95GPDD3hhjwPGSkaOp3zOpt9NaqPpbP-lvXLj6S1k4lGVLm9uiRnufDkMfZL-pI5PFtma5I8EVaOEM)
 
 
 
