@@ -143,7 +143,7 @@
 
 ## Dashboard & Pivot Tables Images :-
 
-![dashboard image](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/Dashboard_image.png?raw=true)
+![dashboard image](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/Road%20Accident%20Dashboard%20Image.png?raw=true)
 
 ![pivot table](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/accident_pivot_table.png?raw=true)
 
