@@ -1,14 +1,12 @@
 # 🚗 Road Accident Analysis Dashboard (2021–2022)
 
-## 📌 1. Executive Summary
+### 🎯 Brief Project Info :-
+- I built a Road Accident Analysis Dashboard (2021–2022) using Excel, combining interactive charts, pivot tables, slicers, and KPIs.
 
-This project presents a comprehensive **Road Accident Analysis Dashboard**, built using **Excel** (utilizing interactive charts, pivot tables, and KPIs), based on **417,883 total casualties** recorded across the 2021–2022 period.
+- The report highlights critical patterns in accident severity, vehicle involvement, road infrastructure, weather conditions, and monthly trends.
 
-The analysis highlights severe safety issues on **single carriageways**, during **daylight**, in **dry conditions**, and within **urban regions**. The majority of casualties involve **cars**, representing nearly **80%** of all reported cases.
-
-This dashboard helps identify high-risk zones, time periods, road types, and environmental conditions to guide policy makers, traffic departments, and road safety authorities in reducing road accidents.
-
----
+- The final dashboard offers a clear, data-driven approach to reducing casualties and saving lives.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📍 2. Key KPI & Severity Highlights
 
@@ -47,6 +45,8 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 
 🔍 **Key Insight:** Cars are involved in almost **4 out of every 5 casualties**, making them the most critical category for preventive actions.
 
+---------------------
+
 ### 🌍 By Area / Region
 
 | Area | Casualties | % Share |
@@ -56,6 +56,8 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 
 📌 **Insight:** Urban areas contribute to the majority of accidents due to **higher vehicle density, traffic congestion, and signal violations.**
 
+---------------
+
 ### 🌞 By Day/Night (Light Conditions)
 
 | Light Condition | Count | % Share |
@@ -64,6 +66,8 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 | Darkness | 112,920 | 27% |
 
 🔍 **Key Insight:** Most casualties occur during **daytime**, likely due to higher traffic volume, peak travel times, and over-speeding during low congestion hours.
+
+---------
 
 ### 🛣 By Road Type
 
@@ -78,6 +82,7 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 
 🔍 **Key Insight:** **Single Carriageways** contribute to nearly **74% of casualties**, showing they are the most dangerous road infrastructure type.
 
+---------
 ### 🌧 By Road Surface Condition
 
 | Surface | Count |
@@ -88,6 +93,8 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 | Other | 396 |
 
 🔍 **Insight:** Even in **dry weather**, casualties are significantly high. This suggests the problem is driven more by **speeding, distractions, and traffic density**, not just weather.
+
+------
 
 ### 🌦 By Weather Conditions
 
@@ -126,8 +133,6 @@ This dashboard helps identify high-risk zones, time periods, road types, and env
 
 ## 💡 6. Recommendations to Reduce Accidents
 
-Based on the data-driven insights, the following actions are recommended for stakeholders:
-
 1.  **🚦 Improve Road Infra on Single Carriageways:** Add dividers, speed enforcement, improve signage, and widen roads in high-traffic zones.
 2.  **🚗 Target Car Drivers with Awareness Programs:** Focus on speeding, mobile usage, overtaking rules, and strict implementation of seatbelt policies.
 3.  **🏙 Urban Congestion Management:** Implement better traffic signal synchronization, dedicated lanes for buses & two-wheelers, and increased traffic patrols during peak hours.
@@ -138,47 +143,11 @@ Based on the data-driven insights, the following actions are recommended for sta
 
 ---
 
-## 🎯 Final Message
+## Dashboard & Pivot Tables Images :-
 
-This dashboard offers a clear, data-driven approach to reducing casualties and saving lives by providing specific, actionable insights into road safety patterns.
-
----
-
-## 🛠 Project Technologies
-
-* **Tool:** Microsoft Excel
-* **Techniques:** Interactive Charts, Pivot Tables, Slicers, and KPI calculations.
-
-
-
-## Excel Project- Road Accident Report
-
+![safety precaution after accident](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQQzZ6mALV0pp7ZRhKqHjxAUIXuPJAAyg9qi95GPDD3hhjwPGSkaOp3zOpt9NaqPpbP-lvXLj6S1k4lGVLm9uiRnufDkMfZL-pI5PFtma5I8EVaOEM)
 ![dashboard image](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/Dashboard_image.png?raw=true)
 ![pivot table](https://github.com/parthpatoliya97/Road_accident_dashboard/blob/main/accident_pivot_table.png?raw=true)
 
-#### created an interactive dashboard to analyze and explore road accident data from 2021–2022, aiming to provide valuable insights that can help in future decision-making and improving road safety.
 
-#### Key Highlights :-
-
-#### Primary KPIs -
-- Total Casualties
-- Fatal Severity
-- Serious Severity
-- Slight Severity
-- Total Casualties by Vehicle Type
-
-#### Secondary KPIs -
-- Monthly Casualty Trends (2021 vs 2022)
-- Casualties by Road Surface
-- Casualties by Road Type
-- Casualties by Light Conditions
-- Casualties by Region/Area
-
-#### Skills & Tools Applied :-
-- Excel Power Query → Automated data cleaning & transformation
-- Data Visualization → Designed interactive Charts for deeper insights
-- Exploratory Analysis → Identified patterns & trends in accident causes
-
- #### Outcome :-
-- This report provides an in-depth view of accident patterns and can support policy makers, traffic authorities, and researchers in developing data-driven strategies for safer roads in the future.
 
