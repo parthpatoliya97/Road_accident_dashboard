@@ -8,7 +8,7 @@
 - The final dashboard offers a clear, data-driven approach to reducing casualties and saving lives.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📍 2. Key KPI & Severity Highlights
+## 📍 Key KPI & Severity Highlights
 
 | Severity Type | Count | % Share |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@
 
 ---
 
-## 📈 3. Casualties Monthly Trend (2021–2022)
+## 📈 Casualties Monthly Trend (2021–2022)
 
 ⭐ **Key Observations:**
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 4. Detailed Casualties Breakdown
+## 📊 Detailed Casualties Breakdown
 
 ### 🚗 By Vehicle Type
 
@@ -110,7 +110,7 @@
 
 ---
 
-## 🧠 5. High-Level Insights Summary
+## 🧠 High-Level Insights Summary
 
 🔥 **Top 5 Risk Factors**
 
