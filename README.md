@@ -22,8 +22,6 @@
 
 ## 📈 Casualties Monthly Trend (2021–2022)
 
-**Key Observations:**
-
 * Both years follow a similar trend, with **higher casualties during summer (May–July)**. This indicates seasonal patterns where traffic volume may be higher during holidays or favorable weather.
 * **November shows a peak** in 2021 (~21k casualties).
 * 2022 shows a **drop in December (13.2k)**, indicating some improvement.
